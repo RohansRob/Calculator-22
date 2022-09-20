@@ -1,7 +1,6 @@
-# Calc
-Calculator
-Javascript calc i taught myself
-- How to use ES6 classes to organize code
-- How to sync JavaScript code with a UI - CSS Grid - Flexbox
-- The best way to cleanly handle user input 
-- How to debug complicated edge cases
+
+Calculator 22
+still work in progress for this 9/22
+
+Worked in from the project of Javascript from Coding Ninjas and React 
+
